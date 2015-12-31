@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+	  <!-- for google ad -->
+		<string>kindle</string>
+		<string>itms-books</string>
+
+	  <!-- for qq -->
+		<string>mqqopensdkapiV2</string>
+		<string>mqqopensdkapiV3</string>
+		<string>mqqOpensdkSSoLogin</string>
+		<string>mqq</string>
+		<string>mqqapi</string>
+		<string>mqqwpa</string>
+		<string>mqzoneopensdkapiV2</string>
+		<string>mqzoneopensdkapi19</string>
+		<string>mqzoneopensdkapi</string>
+		<string>mqzoneopensdk</string>
+		<string>mqzone</string>
+		<string>wtloginmqq2</string>
+
+	  <!-- for wechat -->
+		<string>weixin</string>
+		<string>wechat</string>
+		
+	  <!-- for taobao app -->
+		<string>taobaohd</string>
+		<string>taobao</string>
+		
+	  <!-- for alipay -->
+		<string>alipay</string>
+		<string>alipayshare</string>
+		
+	  <!-- for sina weibo -->
+		<string>sinaweibo</string>
+		<string>sinaweibohd</string>
+		<string>sinaweibosso</string>
+		<string>sinaweibohdsso</string>
+		<string>weibosdk</string>
+		<string>weibosdk2.5</string>
+		
+	  <!-- for tencentWeibo -->
+		<string>TencentWeibo</string>
+		<string>tencentweiboSdkv2</string>
+
+	  <!-- for facebook -->
+		<string>fbauth2</string>
+	</array>
+</dict>
+</plist>
