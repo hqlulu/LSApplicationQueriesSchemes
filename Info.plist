@@ -24,6 +24,10 @@
 		<string>mqzone</string>
 		<string>wtloginmqq2</string>
 
+	  <!-- for qq browser -->
+		<string>mqqbrowser</string>
+		<string>mttbrowser</string>	
+
 	  <!-- for wechat -->
 		<string>weixin</string>
 		<string>wechat</string>
@@ -49,11 +53,17 @@
 		<string>tencentweiboSdkv2</string>
 
 	  <!-- for facebook -->
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
 		<string>fbauth2</string>
+		<string>fbshareextension</string>
 
 	  <!-- for 易信 -->
 		<string>yixin</string>
 		<string>yixinopenapi</string>
+
+	  <!-- 来往 URL Scheme 白名单-->
+		<string>laiwangsso</string>
 		
 	  <!-- for google+ -->
 		<string>googlechrome</string> 
