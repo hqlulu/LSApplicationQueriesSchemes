@@ -15,6 +15,8 @@
 		<string>mqq</string>
 		<string>mqqapi</string>
 		<string>mqqwpa</string>
+		
+	  <!-- for qzone -->
 		<string>mqzoneopensdkapiV2</string>
 		<string>mqzoneopensdkapi19</string>
 		<string>mqzoneopensdkapi</string>
@@ -48,6 +50,41 @@
 
 	  <!-- for facebook -->
 		<string>fbauth2</string>
+
+	  <!-- for 易信 -->
+		<string>yixin</string>
+		<string>yixinopenapi</string>
+		
+	  <!-- for google+ -->
+		<string>googlechrome</string> 
+		<string>googlechrome-x-callback</string>
+		<string>hasgplus4</string>
+		<string>com.google.gppconsent</string>
+		<string>com.google.gppconsent.2.2.0</string>
+		<string>com.google.gppconsent.2.3.0</string>
+		<string>com.google.gppconsent.2.4.0</string>
+		<string>com.google.gppconsent.2.4.1</string>		
+		
+	  <!-- for renren -->
+		<string>renrenapi</string>
+		<string>renrenios</string>
+		<string>renreniphone</string>
+		<string>renren</string>
+
+	  <!-- for pocket -->
+		<string>pocket-oauth-v1</string>
+	  <!-- for Pinterest -->
+		<string>pinit</string>
+	  <!-- for instagram -->
+		<string>instagram</string>
+	  <!-- for whatsapp -->
+		<string>whatsapp</string>
+	  <!-- for line -->
+		<string>line</string>
+	  <!-- for kakaolink -->
+		<string>kakaolink</string>
+	  <!-- for KaokaoStory -->
+		<string>storylink</string>
 	</array>
 </dict>
 </plist>
